@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / secrets
+.env
+.env.*
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Timestamped output snapshots (large, auto-generated — keep only *_latest files)
+outputs/stocks_2*.csv
+outputs/report_2*.json
+
+# OS
+.DS_Store
+Thumbs.db

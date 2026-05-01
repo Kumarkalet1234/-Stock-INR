@@ -1,0 +1,180 @@
+{
+  "generated_at_ist": "2026-05-01T12:22:46.493209+05:30",
+  "total_stocks": 17,
+  "indian_stocks": 9,
+  "global_stocks": 8,
+  "avg_change_pct": -0.46,
+  "top_gainer": {
+    "company": "Alphabet",
+    "change_pct": 9.96
+  },
+  "top_loser": {
+    "company": "Meta",
+    "change_pct": -8.55
+  },
+  "largest_by_mcap": {
+    "company": "NVIDIA",
+    "market_cap_inr_cr": 46068468.31
+  },
+  "bullish_count": 3,
+  "bearish_count": 5,
+  "neutral_count": 9,
+  "private_notes": {
+    "SpaceX": "Private company \u2014 not listed on any public exchange. Last known valuation: ~$350 Billion USD (~Rs.29,20,000 Crore)"
+  },
+  "all_stocks": [
+    {
+      "company": "Reliance",
+      "ticker": "RELIANCE.NS",
+      "price_inr": 1430.8,
+      "change_pct": 0.38,
+      "market_cap_inr_cr": 1943263.07,
+      "sentiment": "Neutral",
+      "category": "Indian"
+    },
+    {
+      "company": "HDFC Bank",
+      "ticker": "HDFCBANK.NS",
+      "price_inr": 771.7,
+      "change_pct": -0.94,
+      "market_cap_inr_cr": 1192731.11,
+      "sentiment": "Neutral",
+      "category": "Indian"
+    },
+    {
+      "company": "TCS",
+      "ticker": "TCS.NS",
+      "price_inr": 2473.9,
+      "change_pct": -0.03,
+      "market_cap_inr_cr": 895404.3,
+      "sentiment": "Neutral",
+      "category": "Indian"
+    },
+    {
+      "company": "Bajaj Finance",
+      "ticker": "BAJFINANCE.NS",
+      "price_inr": 937.0,
+      "change_pct": 0.75,
+      "market_cap_inr_cr": 584293.84,
+      "sentiment": "Neutral",
+      "category": "Indian"
+    },
+    {
+      "company": "Infosys",
+      "ticker": "INFY.NS",
+      "price_inr": 1181.8,
+      "change_pct": 1.22,
+      "market_cap_inr_cr": 478555.52,
+      "sentiment": "Bullish",
+      "category": "Indian"
+    },
+    {
+      "company": "ITC",
+      "ticker": "ITC.NS",
+      "price_inr": 314.9,
+      "change_pct": -0.43,
+      "market_cap_inr_cr": 394928.84,
+      "sentiment": "Neutral",
+      "category": "Indian"
+    },
+    {
+      "company": "ONGC",
+      "ticker": "ONGC.NS",
+      "price_inr": 299.55,
+      "change_pct": -0.61,
+      "market_cap_inr_cr": 375898.74,
+      "sentiment": "Neutral",
+      "category": "Indian"
+    },
+    {
+      "company": "Tata Steel",
+      "ticker": "TATASTEEL.NS",
+      "price_inr": 211.36,
+      "change_pct": -2.09,
+      "market_cap_inr_cr": 263654.86,
+      "sentiment": "Bearish",
+      "category": "Indian"
+    },
+    {
+      "company": "Wipro",
+      "ticker": "WIPRO.NS",
+      "price_inr": 200.65,
+      "change_pct": -0.01,
+      "market_cap_inr_cr": 210838.16,
+      "sentiment": "Neutral",
+      "category": "Indian"
+    },
+    {
+      "company": "NVIDIA",
+      "ticker": "NVDA",
+      "price_inr": 18954.32,
+      "change_pct": -4.63,
+      "market_cap_inr_cr": 46068468.31,
+      "sentiment": "Bearish",
+      "category": "Global"
+    },
+    {
+      "company": "Alphabet",
+      "ticker": "GOOGL",
+      "price_inr": 36546.68,
+      "change_pct": 9.96,
+      "market_cap_inr_cr": 44277925.37,
+      "sentiment": "Bullish",
+      "category": "Global"
+    },
+    {
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price_inr": 25771.68,
+      "change_pct": 0.44,
+      "market_cap_inr_cr": 37835762.45,
+      "sentiment": "Neutral",
+      "category": "Global"
+    },
+    {
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price_inr": 38729.22,
+      "change_pct": -3.93,
+      "market_cap_inr_cr": 28769751.11,
+      "sentiment": "Bearish",
+      "category": "Global"
+    },
+    {
+      "company": "Amazon",
+      "ticker": "AMZN",
+      "price_inr": 25174.28,
+      "change_pct": 0.77,
+      "market_cap_inr_cr": 27073054.95,
+      "sentiment": "Neutral",
+      "category": "Global"
+    },
+    {
+      "company": "Meta",
+      "ticker": "META",
+      "price_inr": 58116.63,
+      "change_pct": -8.55,
+      "market_cap_inr_cr": 14752460.21,
+      "sentiment": "Bearish",
+      "category": "Global"
+    },
+    {
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price_inr": 36245.61,
+      "change_pct": 2.37,
+      "market_cap_inr_cr": 13612849.46,
+      "sentiment": "Bullish",
+      "category": "Global"
+    },
+    {
+      "company": "Samsung",
+      "ticker": "005930.KS",
+      "price_inr": 14197.51,
+      "change_pct": -2.43,
+      "market_cap_inr_cr": 9322882.37,
+      "sentiment": "Bearish",
+      "category": "Global"
+    }
+  ]
+}
